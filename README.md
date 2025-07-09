@@ -5,7 +5,7 @@ Repository for MSSA CCSO10 cohort
 
 [Microsoft Learning Labs repository](https://github.com/orgs/MicrosoftLearning/repositories)
 
-Week One:
+**Week One**:
 
 [AZ-040 Automate administrative tasks by using PowerShell Learning Path - Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/powershell/)
 
