@@ -5,7 +5,7 @@ Repository for MSSA CCSO10 cohort
 
 [Microsoft Learning Labs repository](https://github.com/orgs/MicrosoftLearning/repositories)
 
-**Week One**:
+## **Week One**:
 
 [Automating Administration with PowerShell MS Learn course](https://learn.microsoft.com/en-us/training/courses/az-040t00)
 
@@ -14,7 +14,7 @@ Repository for MSSA CCSO10 cohort
 [AZ-040 GitHub Lab instructions](https://github.com/MicrosoftLearning/AZ-040T00-Automating-Administration-with-PowerShell)
 
 
-**Week Two**:
+## **Week Two**:
 
 [Access Control Overview](https://docs.microsoft.com/windows/security/identity-protection/access-control/access-control)
 
@@ -24,3 +24,12 @@ Repository for MSSA CCSO10 cohort
 
 [Security auditing](https://docs.microsoft.com/windows/security/threat-protection/auditing/security-auditing-overview)
 
+**Windows and Hyper-V containers**
+
+https://learn.microsoft.com/en-us/training/modules/run-containers-windows-server/
+
+https://learn.microsoft.com/en-us/training/modules/orchestrate-containers-windows-server-using-kubernetes/
+
+https://learn.microsoft.com/en-us/virtualization/windowscontainers/about/
+
+https://learn.microsoft.com/en-us/training/modules/configure-azure-container-instances/
