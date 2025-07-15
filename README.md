@@ -17,7 +17,10 @@ Repository for MSSA CCSO10 cohort
 **Week Two**:
 
 [Access Control Overview](https://docs.microsoft.com/windows/security/identity-protection/access-control/access-control)
+
 [Overview of file sharing using the SMB 3 protocol in Windows Server](https://docs.microsoft.com/windows-server/storage/file-server/file-server-smb-overview)
+
 [Network File System overview](https://docs.microsoft.com/windows-server/storage/nfs/nfs-overview)
+
 [Security auditing](https://docs.microsoft.com/windows/security/threat-protection/auditing/security-auditing-overview)
 
