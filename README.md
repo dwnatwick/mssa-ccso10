@@ -33,3 +33,7 @@ https://learn.microsoft.com/en-us/training/modules/orchestrate-containers-window
 https://learn.microsoft.com/en-us/virtualization/windowscontainers/about/
 
 https://learn.microsoft.com/en-us/training/modules/configure-azure-container-instances/
+
+https://learn.microsoft.com/en-us/windows-server/virtualization/hyper-v/hyper-v-overview?pivots=windows
+
+https://learn.microsoft.com/en-us/windows-server/troubleshoot/dynamic-host-configuration-protocol-basics
