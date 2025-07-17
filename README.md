@@ -38,8 +38,22 @@ https://learn.microsoft.com/en-us/windows-server/virtualization/hyper-v/hyper-v-
 
 https://learn.microsoft.com/en-us/windows-server/troubleshoot/dynamic-host-configuration-protocol-basics
 
+**DNS and VPN**
+
 https://learn.microsoft.com/en-us/windows-server/networking/dns/dns-overview
 
 https://learn.microsoft.com/en-us/training/modules/implement-windows-server-dns/
+
+https://learn.microsoft.com/en-us/windows-server/networking/technologies/nps/nps-top
+
+https://learn.microsoft.com/en-us/windows-server/remote/remote-access/web-application-proxy/publishing-applications-with-sharepoint,-exchange-and-rdg?redirectedfrom=MSDN
+
+https://learn.microsoft.com/en-us/intune/intune-service/configuration/vpn-settings-configure
+
+https://learn.microsoft.com/en-us/Windows-server/remote/remote-access/overview-always-on-vpn
+
+https://learn.microsoft.com/en-us/windows-server/remote/remote-access/tutorial-aovpn-deploy-setup
+
+
 
 
