@@ -37,3 +37,9 @@ https://learn.microsoft.com/en-us/training/modules/configure-azure-container-ins
 https://learn.microsoft.com/en-us/windows-server/virtualization/hyper-v/hyper-v-overview?pivots=windows
 
 https://learn.microsoft.com/en-us/windows-server/troubleshoot/dynamic-host-configuration-protocol-basics
+
+https://learn.microsoft.com/en-us/windows-server/networking/dns/dns-overview
+
+https://learn.microsoft.com/en-us/training/modules/implement-windows-server-dns/
+
+
